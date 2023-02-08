@@ -1,0 +1,162 @@
+body {
+  background-image:url(/img/carretera.jpg) ;
+}
+
+.tittle h1 {
+  background-color: white;
+  font-family: Calibri;
+  text-align: center;
+  position: relative;
+  display: block;
+  justify-content: center;
+  width: 500px;
+  height: 40px;
+  border-radius: 10px;
+  
+}
+.tittle {
+  display: flex;
+  justify-content:space-between;
+}
+.tittle img {
+  opacity:0.5;
+  position: fixed;
+}
+
+.logo{
+  display: flex;
+  
+}
+
+.txt p {
+  background-color: white;
+  text-align: left;
+  padding-top: 40px;
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-bottom: 40px;
+  width: 400px;
+  height: 225px;
+  position: relative;
+  top: 20px;
+  font-family: arial;
+  display: inline-block;
+  border-radius: 10px;
+}
+.logo img {
+  width: 100px;
+  height: 80px;
+}
+
+.tt2 h1{
+    background-color: white;
+    font-family: Calibri;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.character p{
+    background-color: white;
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    width: 400px;
+    height: 60px;
+    position: relative;
+    top: 20px;
+    font-family: arial;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.character img {
+    border-radius:10px ;
+}
+
+.director h1{
+  background-color: white;
+  font-family: Calibri;
+  text-align: center;
+  position: relative;
+  display: block;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.director p{
+    background-color: white;
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    position: relative;
+    top: 20px;
+    font-family: arial;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.director img{
+   margin-top: 30px;
+   border-radius: 10px;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+.dondeVer h1{
+  background-color: white;
+  font-family: Calibri;
+  text-align: center;
+  position: relative;
+  display: block;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.table{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.table table {
+  background-color: white;
+}
+
+.med h1{
+  background-color: white;
+  font-family: Calibri;
+  text-align: center;
+  position: relative;
+  display: block;
+  justify-content: center;
+  border-radius: 10px;
+
+}
+
+.container2 img{
+  width:400px;
+  height:400px;
+  margin-top: 30px;
+  border-radius: 10px;
+  margin-left:30px;
+
+}
+
+.container2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+

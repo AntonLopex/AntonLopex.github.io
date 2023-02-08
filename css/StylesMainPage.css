@@ -1,0 +1,52 @@
+body{
+
+    background-image:url(../img/fondo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+a{
+    text-decoration:none;
+    color: black;
+   
+}
+@font-face {
+    font-family:tittle ;
+    src: url(/font/Grafite.otf);
+}
+@font-face {
+    font-family:letter;
+    src: url(/font/Candy\ Beans.otf);
+}
+
+h1{
+    font-family: tittle;
+    position: absolute;
+    left: 100px;
+    top: 300px;
+    font-size:150px ;
+
+}
+img{
+
+    position: absolute;
+    width: 100px;
+    top:560px;
+    left:200px ;
+
+}
+
+p{
+
+   font-family:letter;
+    position: relative;
+    left: 150px;
+    top:650px;
+}
+
+
+  
+  
+
