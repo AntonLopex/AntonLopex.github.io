@@ -18,13 +18,13 @@ body {
   display: flex;
   justify-content:space-between;
 }
-.tittle img {
-  opacity:0.5;
-  position: fixed;
-}
+
 
 .logo{
   display: flex;
+  position: fixed;
+  margin-top:633px;
+  margin-left:1400px;
   
 }
 
@@ -131,6 +131,7 @@ body {
 
 .table table {
   background-color: white;
+  font-family:Calibri;
 }
 
 .med h1{
@@ -158,5 +159,65 @@ body {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+}
+
+      
+form {
+  width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color:white;
+  border-radius: 10px;
+  
+}
+
+h1 {
+  background-color: white;
+  font-family: Calibri;
+  text-align: center;
+  position: relative;
+  display: block;
+  justify-content: center;
+  border-radius: 10px;
+  
+}
+
+input[type="range"] {
+  width: 100%;
+  
+}
+
+textarea {
+  width: 97%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+  
+}
+
+h2 {
+  margin-top: 30px;
+  font-family: Calibri;
+}
+
+input[type="text"], input[type="email"] {
+  width: 97%;
+  padding: 10px;
+  margin-bottom: 20px;
+  
+}
+
+input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: Calibri;
 }
 
