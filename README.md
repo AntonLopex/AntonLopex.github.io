@@ -1,4 +1,4 @@
 # AntonLopex.github.io
 
 Version 
-[Link]("../VERSION%200"/index.html)
+[Link]("VERSION%200"/index.html)
